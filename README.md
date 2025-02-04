@@ -22,13 +22,7 @@ Exibir os pares sorteados
 
 Clone este repositório:
 
-git clone (https://github.com/Carlinhos2023/sorteador-amigo-secreto)
-
-Acesse a pasta do projeto:
-
-cd sorteador-amigo-secreto
-
-Abra o arquivo index.html no navegador.
+git clone https://github.com/Carlinhos2023/sorteador-amigo-secreto
 
 ## 📷 Captura de Tela
 ![Captura de tela 2025-02-04 171425](https://github.com/user-attachments/assets/774ca934-2b9f-4f1b-b946-a0aa54ff5ac0)
