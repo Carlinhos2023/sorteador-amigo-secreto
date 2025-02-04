@@ -1,4 +1,4 @@
-# sorteador-amigo-secreto
+# Sorteador de Amigo Secreto
 
 ## 📌 Tecnologias Utilizadas
 
