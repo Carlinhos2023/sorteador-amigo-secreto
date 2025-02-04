@@ -22,7 +22,7 @@ Exibir os pares sorteados
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/sorteador-amigo-secreto.git
+git clone (https://github.com/Carlinhos2023/sorteador-amigo-secreto)
 
 Acesse a pasta do projeto:
 
